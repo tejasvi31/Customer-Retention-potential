@@ -1,6 +1,7 @@
 # Customer-Retention-potential
 
-Business Case
+Business Case :
+
 It’s cheaper to get current customers to make a repeat purchase than it is to find new customers. And focusing on this will give companies a competitive edge over the others. It is essential for any business to understand its consumers and their requirements and also make an effort to re-engage current customers and get them back. 
 
 Customer Retention: It is the collection of activities and actions a business takes to increase the number of repeat customers and to increase the profitability of each existing customer. The goal of customer retention programs is to help companies retain as many customers as possible and in this process you tend to provide and extract more value from the existing customer base. In short, acquisition creates a foundation of customers while your retention strategy is how you build customer relationships and maximize revenue for each one.
